@@ -377,3 +377,6 @@ AquaMai/BuildInfo.g.cs
 .sisyphus
 .omo
 *.lscache
+
+# 本機反編譯暫存（freedom-credit 研究用）
+.decomp/
