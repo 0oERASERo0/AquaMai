@@ -2,6 +2,7 @@
   - General
   - GameSystem.SinglePlayer
   - GameSystem.EnableFreedomMode
+  - GameSystem.FreedomCredit
   - GameSystem.DisableTimeout
   - GameSystem.QuickRetry
   - UX.OneKeyEntryEnd
